@@ -8,7 +8,7 @@ import Footer from './components/Footer'
 
 
 export default function HomePage() {
-  
+
   return (
     <main className="w-full">
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-2/3 h-screen bg-[url('/image/grid-pattern.svg')] bg-cover bg-no-repeat z-0"></div>
